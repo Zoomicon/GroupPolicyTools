@@ -1,0 +1,8 @@
+#ignore output of gpresult_snapshot.bat
+gpresult_*.xml
+
+#ignore output of gpresult_timeline.bat
+gpresult_timeline.txt
+
+#ignore output of gpresult_timeline_paths.bat
+gpresult_timeline_paths.txt
